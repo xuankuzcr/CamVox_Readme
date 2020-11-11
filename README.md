@@ -8,7 +8,7 @@ We propose **CamVox** by adapting Livox lidars into visual SLAM (ORBSLAM2) by ex
 
 **Developer:** [Yuewen Zhu](https://github.com/zywok), [Chunran Zheng](https://github.com/xuankuzcr)
 
-**Our related video**: our related videos are now available on [YouTube](https://www.youtube.com/). 
+**Our related video**: our related videos are now available on [[YouTube Video](https://www.youtube.com)] [[bilibili Video](https://www.bilibili.com]. 
 
 ## 1. Prerequisites
 ### 1.1 Ubuntu and ROS
