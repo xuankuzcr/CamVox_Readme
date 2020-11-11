@@ -37,10 +37,10 @@ Clone the repository and catkin_make:
     catkin_make
     source ~/catkin_ws/devel/setup.bash
 ```
-## 3. Directly run
+## 3. Run with Hardware
 ### Livox Horizon lidar and Camera
 
-Connect to your PC to Livox Horizon lidar) by following  [Livox-ros-driver installation](https://github.com/Livox-SDK/livox_ros_driver).
+Connect to your PC to Livox Horizon lidar by following  [Livox-ros-driver installation](https://github.com/Livox-SDK/livox_ros_driver).
 
 ```
     roslaunch CamVox CamVox_test.launch
@@ -49,7 +49,7 @@ Connect to your PC to Livox Horizon lidar) by following  [Livox-ros-driver insta
 ```
 
 
-## 4. Rosbag Example
+## 4. Run with Rosbag Example
 
 ### 4.1 SUSTech Dataset (Loop Closure)
 We open sourced our dataset in SUSTech campus with loop closure. [Download here](https://drive.google.com/file/)
@@ -63,9 +63,10 @@ We provide a rosbag file with static scenes to test the automatic calibration th
 ```
 
 ## 5. Acknowledgements
-The authors thank colleagues at Livox Technology for helpful discussion and support.
+The authors thank colleagues at Livox Technology for helpful discussion and support. <br/>
+The repository is from [**ISEE**](https://isee.technology/).
 
 ## 6. License
 
-The source code is released under [GPLv2](http://www.gnu.org/licenses/)  license.
+The source code is released under [GPLv2](http://www.gnu.org/licenses/) license.
 
