@@ -38,13 +38,20 @@ Clone the repository and catkin_make:
     source ~/catkin_ws/devel/setup.bash
 ```
 ## 3. Run with Hardware
-### Hardware
+### 3.1 Hardware
 | Item  | Pics  | Shopping link |
 | :------------: | :------------: | :------------: |
 | Livox Horizon  | <img src="./pics/mid40.png" width=15%  />  | [DJI](https://store.dji.com/cn/product/livox-mid?vid=48991) |
 | MV-CE060-10UC  | <img src="./pics/mid40.png" width=15%  />  | [DJI](https://store.dji.com/cn/product/livox-mid?vid=48991) |
 | UGV Chassis  | <img src="./pics/chassis.png" width=30%  />  | [Link](https://www.robomaster.com/zh-CN/products/components/detail/1839)
 | Livox Hub (**optional**)  | <img src="./pics/livox_hub.png" width=20%  />  | [DJI](https://store.dji.com/zh-tw/product/livox-hub) |
+
+### 3.2 Hard Synchronization
+
+
+
+
+### 3.3 Running
 
 Connect to your PC to Livox Horizon lidar by following  [Livox-ros-driver installation](https://github.com/Livox-SDK/livox_ros_driver).
 
