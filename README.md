@@ -39,13 +39,12 @@ Clone the repository and catkin_make:
 ```
 ## 3. Run with Hardware
 ### Hardware
-## Material lists (only for reference)
 | Item  | Pics  | Shopping link (availability<br> is not guaranteed)  |
 | :------------: | :------------: | :------------: |
-| Livox Mid-40  | <img src="./pics/mid40.png" width=15%  />  | [official website](https://www.livoxtech.com/mid-40-and-mid-100); [DJI](https://store.dji.com/cn/product/livox-mid?vid=48991) |
-| Livox Mid-100  | <img src="./pics/mid100.png" width=20%  />  | [official website](https://www.livoxtech.com/mid-40-and-mid-100); [DJI](https://store.dji.com/cn/product/livox-mid?vid=48991) |
+| Livox Horizon  | <img src="./pics/mid40.png" width=15%  />  | [DJI](https://store.dji.com/cn/product/livox-mid?vid=48991) |
+| MV-CE060-10UC  | <img src="./pics/mid40.png" width=15%  />  | [DJI](https://store.dji.com/cn/product/livox-mid?vid=48991) |
 | UGV Chassis  | <img src="./pics/chassis.png" width=30%  />  | [Link](https://www.robomaster.com/zh-CN/products/components/detail/1839)
-| Livox Hub (**optional**)  | <img src="./pics/livox_hub.png" width=20%  />  | [official website](https://www.livoxtech.com/hub); [DJI](https://store.dji.com/zh-tw/product/livox-hub) |
+| Livox Hub (**optional**)  | <img src="./pics/livox_hub.png" width=20%  />  | [DJI](https://store.dji.com/zh-tw/product/livox-hub) |
 
 Connect to your PC to Livox Horizon lidar by following  [Livox-ros-driver installation](https://github.com/Livox-SDK/livox_ros_driver).
 
