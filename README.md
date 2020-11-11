@@ -39,7 +39,7 @@ Clone the repository and catkin_make:
 ```
 ## 3. Run with Hardware
 ### Hardware
-| Item  | Pics  | Shopping link (availability<br> is not guaranteed)  |
+| Item  | Pics  | Shopping link |
 | :------------: | :------------: | :------------: |
 | Livox Horizon  | <img src="./pics/mid40.png" width=15%  />  | [DJI](https://store.dji.com/cn/product/livox-mid?vid=48991) |
 | MV-CE060-10UC  | <img src="./pics/mid40.png" width=15%  />  | [DJI](https://store.dji.com/cn/product/livox-mid?vid=48991) |
