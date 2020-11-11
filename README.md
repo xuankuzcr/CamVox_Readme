@@ -39,6 +39,9 @@ Clone the repository and catkin_make:
 ```
 ## 3. Run with Hardware
 ### 3.1 Hardware
+
+ <img src="./pics/livox_hub.png" width=100%  />  
+ 
 | Item  | Pics  | Shopping link |
 | :------------: | :------------: | :------------: |
 | Livox Horizon  | <img src="./pics/mid40.png" width=15%  />  | [DJI](https://store.dji.com/cn/product/livox-mid?vid=48991) |
@@ -65,9 +68,13 @@ Connect to your PC to Livox Horizon lidar by following  [Livox-ros-driver instal
 ## 4. Run with Rosbag Example
 
 ### 4.1 SUSTech Dataset (Loop Closure)
+
 We open sourced our dataset in SUSTech campus with loop closure. [Download here](https://drive.google.com/file/)
+
 ### 4.2 Rosbag Example with static scenes (Automatic Calibration trigger)
+
 We provide a rosbag file with static scenes to test the automatic calibration thread. [Download here](https://drive.google.com/file/)
+
 ### 4.3 Running
 ```
     roslaunch CamVox CamVox_test.launch
