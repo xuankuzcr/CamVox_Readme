@@ -27,7 +27,7 @@ We use OpenCV to manipulate images and features. Follow [Opencv Installation](ht
 ### 1.4 Eigen3
 Follow [Eigen Installation](http://eigen.tuxfamily.org). **Required at least 3.1.0**.
 
-### 1.6 Ceres Solver
+### 1.5 Ceres Solver
 Follow [Ceres Installation](http://ceres-solver.org/installation.html).
 
 ## 2. Build CamVox
