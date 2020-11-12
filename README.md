@@ -43,15 +43,65 @@ Clone the repository and catkin_make:
 ## 3. Run with Hardware
 ### 3.1 Hardware
 
- <img src="./pics/platform.png" width=100%  />  
+ <table>
+	<tr>
+	    <th>属性</th>
+	    <th>属性值</th>
+	    <th>描述</th>  
+	</tr >
+	<tr >
+	    <td rowspan="9"><img src="./pics/platform.png" width=40%  /></td>
+	    <td>text</td>
+	    <td>单行文本输入框</td>
+	</tr>
+	<tr>
+	    <td>password</td>
+	    <td>密码输入框</td>
+	</tr>
+	<tr>
+	    <td>radio</td>
+	    <td>单选按钮</td>
+	</tr>
+	<tr>
+	    <td>CheckBox</td>
+	    <td>复选按钮</td>
+	</tr>
+	<tr>
+	    <td>image</td>
+	    <td>图像形式的提交按钮</td>
+	</tr>
+	<tr>
+	    <td >file</td>
+	    <td>文件域</td>
+	</tr>
+	<tr>
+	    <td >name</td>
+	    <td>用户自定义</td>
+	    <td>控件名称</td>
+	</tr>
+	<tr>
+	    <td >value</td>
+	    <td >用户自定义</td>
+	    <td >默认文本值</td>
+	</tr>
+	<tr>
+	    <td >size</td>
+	    <td >正整数</td>
+	    <td >控件在页面中的显示宽度</td>
+	</tr>
+</table>
 
-| Item  | Pics  | Shopping link |
-| :------------: | :------------: | :------------: |
-| Livox Horizon  | <img src=  "./pics/horizon.jpg" width=15%  /> | [Lidar](https://www.livoxtech.com/horizon) |
+    
+|car| Item  | Pics  | Shopping link |
+| :------------: | :------------: | :------------: | :------------: |
+|<img src="./pics/platform.png" width=40%  />  | Livox Horizon  | <img src=  "./pics/horizon.jpg" width=15%  /> | [Lidar](https://www.livoxtech.com/horizon) |
 | MV-CE060-10UC  | <img src="./pics/camera.png" width=15%  /> | [Camera](https://en.hikrobotics.com/vision/visioninfo.htm?type=42&oid=2451) |
 | Inertial Sense uINS | <img src="./pics/Inertial_Sense_uINS.png" width=20%  /> | [RTK](https://inertialsense.com/product/rugged-µins/) |
 | Manifold2C | <img src="./pics/Manifold2C.jpg" width=17%  /> | [Onboard-Computer](https://www.dji.com/cn/manifold-2) |
 | Scout-mini | <img src="./pics/Scout-mini.jpg" width=22%  /> | [Robot Platform](http://www.agilex.ai/index/product/id/3?lang=zh-cn) |
+
+
+
 
 
 ### 3.2 Hard Synchronization
