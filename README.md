@@ -93,7 +93,7 @@ Clone the repository and catkin_make:
 
     
 | Item  | Pics  | Shopping link |
-| :------------: | :------------: | :------------: | :------------: |
+| :------------: | :------------: | :------------: |
 | Livox Horizon  | <img src=  "./pics/horizon.jpg" width=15%  /> | [Lidar](https://www.livoxtech.com/horizon) |
 | MV-CE060-10UC  | <img src="./pics/camera.png" width=15%  /> | [Camera](https://en.hikrobotics.com/vision/visioninfo.htm?type=42&oid=2451) |
 | Inertial Sense uINS | <img src="./pics/Inertial_Sense_uINS.png" width=20%  /> | [RTK](https://inertialsense.com/product/rugged-µins/) |
