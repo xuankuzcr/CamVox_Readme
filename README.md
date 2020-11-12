@@ -53,27 +53,27 @@ Clone the repository and catkin_make:
 	<tr >
 	    <td rowspan="5"><img src="./pics/platform.png" /></td>
 	    <td>Livox Horizon </td>
-	    <td align="center" valign="middle"><img src=  "./pics/horizon.jpg" width=30% /></td>
+	    <td align="center" valign="middle"><img src=  "./pics/horizon.jpg" width=25% /></td>
             <td align="center" valign="middle">  <a href ="https://www.livoxtech.com/horizon"> Lidar </a> </td>
 	</tr>
 	<tr>
 	    <td> MV-CE060-10UC</td>
-	    <td align="center" valign="middle"><img src="./pics/camera.png" width=30% /></td>
+	    <td align="center" valign="middle"><img src="./pics/camera.png" width=22% /></td>
 	    <td align="center" valign="middle">  <a href ="https://en.hikrobotics.com/vision/visioninfo.htm?type=42&oid=2451"> Camera </a> </td>
 	</tr>
 	<tr>
 	    <td> Inertial Sense uINS </td>
-	    <td align="center" valign="middle"> <img src="./pics/Inertial_Sense_uINS.png" width=30% /> </td>
+	    <td align="center" valign="middle"> <img src="./pics/Inertial_Sense_uINS.png" width=22% /> </td>
 	    <td align="center" valign="middle"> <a href ="https://inertialsense.com/product/rugged-µins/"> RTK </a> </td>
 	</tr>
 	<tr>
 	    <td>Manifold2C</td>
-	    <td align="center" valign="middle"><img src="./pics/Manifold2C.jpg" width=30% /></td>
+	    <td align="center" valign="middle"><img src="./pics/Manifold2C.jpg" width=22% /></td>
             <td align="center" valign="middle">  <a href ="https://www.dji.com/cn/manifold-2"> Onboard-Computer </a> </td>
 	</tr>
 	<tr>
 	    <td> Scout-mini </td>
-	    <td align="center" valign="middle"><img src="./pics/Scout-mini.jpg" width=35% /></td>
+	    <td align="center" valign="middle"><img src="./pics/Scout-mini.jpg" width=25% /></td>
 	    <td align="center" valign="middle">  <a href ="http://www.agilex.ai/index/product/id/3?lang=zh-cn"> Robot Chassis </a> </td>
 	</tr>
 </table>
