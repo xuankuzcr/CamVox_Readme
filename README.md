@@ -92,9 +92,9 @@ Clone the repository and catkin_make:
 </table>
 
     
-|car| Item  | Pics  | Shopping link |
+| Item  | Pics  | Shopping link |
 | :------------: | :------------: | :------------: | :------------: |
-|<img src="./pics/platform.png" width=40%  />  | Livox Horizon  | <img src=  "./pics/horizon.jpg" width=15%  /> | [Lidar](https://www.livoxtech.com/horizon) |
+| Livox Horizon  | <img src=  "./pics/horizon.jpg" width=15%  /> | [Lidar](https://www.livoxtech.com/horizon) |
 | MV-CE060-10UC  | <img src="./pics/camera.png" width=15%  /> | [Camera](https://en.hikrobotics.com/vision/visioninfo.htm?type=42&oid=2451) |
 | Inertial Sense uINS | <img src="./pics/Inertial_Sense_uINS.png" width=20%  /> | [RTK](https://inertialsense.com/product/rugged-µins/) |
 | Manifold2C | <img src="./pics/Manifold2C.jpg" width=17%  /> | [Onboard-Computer](https://www.dji.com/cn/manifold-2) |
