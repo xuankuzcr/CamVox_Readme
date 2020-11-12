@@ -104,7 +104,7 @@ We open sourced our dataset in SUSTech campus with loop closure. [Download here]
 ### 4.2 Rosbag Example with static scenes (Automatic Calibration trigger)
 
 We provide a rosbag file with static scenes to test the automatic calibration thread. [Download here](https://drive.google.com/file/).
-<img src="gifs/runyang.gif" alt="show" width = 50% /> <img src="gifs/flat.gif" alt="show" width = 50%  />
+<img src="gifs/runyang.gif" alt="show" width = 49% /> <img src="gifs/flat.gif" alt="show" width = 49%  />
 
 ### 4.3 Running
 ```
