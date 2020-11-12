@@ -1,14 +1,18 @@
 # CamVox
 ## A Low-cost and Accurate Lidar-assisted Visual SLAM System
-We propose **CamVox** by adapting Livox lidars into visual SLAM (ORBSLAM2) by exploring the lidars’ unique features. Based on the non-repeating nature of Livox lidars, we propose an automatic lidar-camera calibration method that will work in uncontrolled scenes. The long depth detection range also beneﬁt a more efﬁcient mapping. Comparison of CamVox with visual SLAM (VINS-mono) and lidar SLAM (LOAM) are evaluated on the same dataset to demonstrate the performance.
+
+<img src="gifs/CamVox.gif" alt="show" width = 100%  />
+
+<img src="gifs/runyang.gif" alt="show" width = 33%  />   <img src="gifs/flat.gif" alt="show" width = 32%  />   <img src="gifs/sdim.gif" alt="show" width = 32%  />   
+
+We propose **CamVox** by adapting Livox lidars into visual SLAM (ORB-SLAM2) by exploring the lidars’ unique features. Based on the non-repeating nature of Livox lidars, we propose an automatic lidar-camera calibration method that will work in uncontrolled scenes. The long depth detection range also beneﬁt a more efﬁcient mapping. Comparison of CamVox with visual SLAM (VINS-mono) and lidar SLAM (livox_horizon_loam) are evaluated on the same dataset to demonstrate the performance.
 
 <div align="center">
     <img src="pics/compare.png" width = 100% >
 </div>
-
 **Developer:** [Yuewen Zhu](https://github.com/zywok), [Chunran Zheng](https://github.com/xuankuzcr)
 
-**Our related video**: our related videos are now available on [[YouTube Video](https://www.youtube.com)] [[bilibili Video](https://www.bilibili.com)]. 
+**Our related video**: our related videos are now available on [[YouTube Video](https://www.youtube.com/watch?v=AUnZNBB-uUE)] [[bilibili Video](https://www.bilibili.com/video/BV1fZ4y1V795/)]. 
 
 ## 1. Prerequisites
 ### 1.1 Ubuntu and ROS
@@ -40,18 +44,20 @@ Clone the repository and catkin_make:
 ## 3. Run with Hardware
 ### 3.1 Hardware
 
- <img src="./pics/livox_hub.png" width=100%  />  
- 
+ <img src="./pics/platform.png" width=100%  />  
+
 | Item  | Pics  | Shopping link |
 | :------------: | :------------: | :------------: |
-| Livox Horizon  | <img src="./pics/mid40.png" width=15%  />  | [DJI](https://store.dji.com/cn/product/livox-mid?vid=48991) |
-| MV-CE060-10UC  | <img src="./pics/mid40.png" width=15%  />  | [DJI](https://store.dji.com/cn/product/livox-mid?vid=48991) |
-| UGV Chassis  | <img src="./pics/chassis.png" width=30%  />  | [Link](https://www.robomaster.com/zh-CN/products/components/detail/1839)
-| Livox Hub (**optional**)  | <img src="./pics/livox_hub.png" width=20%  />  | [DJI](https://store.dji.com/zh-tw/product/livox-hub) |
+| Livox Horizon  | <img src=  "./pics/horizon.jpg" width=15%  /> | [Lidar](https://www.livoxtech.com/horizon) |
+| MV-CE060-10UC  | <img src="./pics/camera.png" width=15%  /> | [Camera](https://en.hikrobotics.com/vision/visioninfo.htm?type=42&oid=2451) |
+| Inertial Sense uINS | <img src="./pics/Inertial_Sense_uINS.png" width=20%  /> | [RTK](https://inertialsense.com/product/rugged-µins/) |
+| Manifold2C | <img src="./pics/Manifold2C.jpg" width=17%  /> | [Onboard-Computer](https://www.dji.com/cn/manifold-2) |
+| Scout-mini | <img src="./pics/Scout-mini.jpg" width=22%  /> | [Robot Platform](http://www.agilex.ai/index/product/id/3?lang=zh-cn) |
+
 
 ### 3.2 Hard Synchronization
 
-
+<img src="./pics/synchronization.jpg" width=100%  />
 
 
 ### 3.3 Running
