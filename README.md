@@ -80,8 +80,9 @@ Clone the repository and catkin_make:
 
 ### 3.2 Hard Synchronization
 
-<img src="./pics/synchronization.jpg" width=100% />
+Hard synchronization is performed with all of these sensors by a trigger signal of 10 Hz. The camera output at each trigger signal(10 Hz). The lidar keeps a clock (synced with GPS-RTK) and continuously outputs the scanned point with an accurate timestamp. In the meantime, the IMU outputs at a frequency of 200 Hz synced with the trigger.
 
+<img src="./pics/synchronization.jpg" width=100% />
 
 ### 3.3 Running
 
