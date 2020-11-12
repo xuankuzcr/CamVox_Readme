@@ -45,35 +45,35 @@ Clone the repository and catkin_make:
 
  <table>
 	<tr>
-	    <th>car</th>
+	    <th>Platform</th>
 	    <th>Item</th>
 	    <th>Pics</th>  
 	    <th>Shopping Link</th> 
 	</tr >
 	<tr >
-	    <td rowspan="5"><img src="./pics/platform.png" width=40%  /></td>
+	    <td rowspan="5"><img src="./pics/platform.png" /></td>
 	    <td>Livox Horizon </td>
-	    <td><img src=  "./pics/horizon.jpg" width=15%  /></td>
-	    <td> [Lidar](https://www.livoxtech.com/horizon)</td>
+	    <td align="center" valign="middle"><img src=  "./pics/horizon.jpg" width=30% /></td>
+	    <td> [Lidar](https://www.livoxtech.com/horizon) </td>
 	</tr>
 	<tr>
 	    <td> MV-CE060-10UC</td>
-	    <td><img src="./pics/camera.png"/></td>
+	    <td align="center" valign="middle"><img src="./pics/camera.png" width=30% /></td>
 	    <td>[Camera](https://en.hikrobotics.com/vision/visioninfo.htm?type=42&oid=2451)</td>
 	</tr>
 	<tr>
 	    <td> Inertial Sense uINS </td>
-	    <td> <img src="./pics/Inertial_Sense_uINS.png" /> </td>
+	    <td align="center" valign="middle"> <img src="./pics/Inertial_Sense_uINS.png" width=30% /> </td>
 	    <td> [RTK](https://inertialsense.com/product/rugged-µins/) </td>
 	</tr>
 	<tr>
 	    <td>Manifold2C</td>
-	    <td><img src="./pics/Manifold2C.jpg" /></td>
+	    <td align="center" valign="middle"><img src="./pics/Manifold2C.jpg" width=30% /></td>
 	    <td>[Onboard-Computer](https://www.dji.com/cn/manifold-2) </td>
 	</tr>
 	<tr>
 	    <td> Scout-mini </td>
-	    <td><img src="./pics/Scout-mini.jpg" width=22%  /></td>
+	    <td align="center" valign="middle"><img src="./pics/Scout-mini.jpg" width=35% /></td>
 	    <td>[Robot Platform](http://www.agilex.ai/index/product/id/3?lang=zh-cn)</td>
 	</tr>
 </table>
