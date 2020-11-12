@@ -80,7 +80,7 @@ Clone the repository and catkin_make:
 
 ### 3.2 Hard Synchronization
 
-<img src="./pics/synchronization.jpg" width=100%  />
+<img src="./pics/synchronization.jpg" width=100% />
 
 
 ### 3.3 Running
