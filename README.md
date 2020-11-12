@@ -22,7 +22,7 @@ ROS Kinetic or Melodic. Follow [ROS Installation](http://wiki.ros.org/ROS/Instal
 We use [Pangolin](https://github.com/stevenlovegrove/Pangolin) for visualization and user interface. Follow [Pangolin Installation](https://github.com/stevenlovegrove/Pangolin).
 
 ### 1.3 OpenCV
-We use [OpenCV](http://opencv.org) to manipulate images and features. Follow [Opencv Installation](http://opencv.org). **Required at leat 2.4.3. Tested with OpenCV 2.4.11 and OpenCV 3.2**.
+We use OpenCV to manipulate images and features. Follow [Opencv Installation](http://opencv.org). **Required at leat 2.4.3. Tested with OpenCV 2.4.11 and OpenCV 3.2**.
 
 ### 1.4 Eigen3
 Follow [Eigen Installation](http://eigen.tuxfamily.org). **Required at least 3.1.0**.
