@@ -8,6 +8,7 @@ We propose **CamVox** by adapting Livox lidars into visual SLAM (ORB-SLAM2) by e
 <div align="center">
     <img src="pics/compare.png" width = 100% >
 </div>
+
 **Developer:** [Yuewen Zhu](https://github.com/zywok), [Chunran Zheng](https://github.com/xuankuzcr)
 
 **Our related video**: our related videos are now available on [[YouTube Video](https://www.youtube.com/watch?v=AUnZNBB-uUE)] [[bilibili Video](https://www.bilibili.com/video/BV1fZ4y1V795/)]. 
