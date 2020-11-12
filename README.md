@@ -58,7 +58,7 @@ Clone the repository and catkin_make:
 	</tr>
 	<tr>
 	    <td> MV-CE060-10UC</td>
-	    <td align="center" valign="middle"><img src="./pics/camera.png" width=22% /></td>
+	    <td align="center" valign="middle"><img src="./pics/camera.png" width=19% /></td>
 	    <td align="center" valign="middle">  <a href ="https://en.hikrobotics.com/vision/visioninfo.htm?type=42&oid=2451"> Camera </a> </td>
 	</tr>
 	<tr>
@@ -73,7 +73,7 @@ Clone the repository and catkin_make:
 	</tr>
 	<tr>
 	    <td> Scout-mini </td>
-	    <td align="center" valign="middle"><img src="./pics/Scout-mini.jpg" width=25% /></td>
+	    <td align="center" valign="middle"><img src="./pics/Scout-mini.jpg" width=28% /></td>
 	    <td align="center" valign="middle">  <a href ="http://www.agilex.ai/index/product/id/3?lang=zh-cn"> Robot Chassis </a> </td>
 	</tr>
 </table>
