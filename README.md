@@ -16,16 +16,16 @@ We propose **CamVox** by adapting Livox lidars into visual SLAM (ORB-SLAM2) by e
 ## 1. Prerequisites
 ### 1.1 Ubuntu and ROS
 Ubuntu 64-bit 16.04 or 18.04.
-ROS Kinetic or Melodic. [ROS Installation](http://wiki.ros.org/ROS/Installation)
+ROS Kinetic or Melodic. Follow [ROS Installation](http://wiki.ros.org/ROS/Installation).
 
 ### 1.2 Pangolin
-We use [Pangolin](https://github.com/stevenlovegrove/Pangolin) for visualization and user interface. Dowload and install instructions can be found at: https://github.com/stevenlovegrove/Pangolin.
+We use [Pangolin](https://github.com/stevenlovegrove/Pangolin) for visualization and user interface. Follow [Pangolin Installation](https://github.com/stevenlovegrove/Pangolin).
 
 ### 1.3 OpenCV
-We use [OpenCV](http://opencv.org) to manipulate images and features. Dowload and install instructions can be found at: http://opencv.org. **Required at leat 2.4.3. Tested with OpenCV 2.4.11 and OpenCV 3.2**.
+We use [OpenCV](http://opencv.org) to manipulate images and features. Follow [Opencv Installation](http://opencv.org). **Required at leat 2.4.3. Tested with OpenCV 2.4.11 and OpenCV 3.2**.
 
 ### 1.4 Eigen3
-Download and install instructions can be found at: http://eigen.tuxfamily.org. **Required at least 3.1.0**.
+Follow [Eigen Installation](http://eigen.tuxfamily.org). **Required at least 3.1.0**.
 
 ### 1.6 Ceres Solver
 Follow [Ceres Installation](http://ceres-solver.org/installation.html).
